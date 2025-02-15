@@ -2,8 +2,13 @@
 text-align : center;
 }
 body{
-  background-color:black:
-  color:white:
+  background-color:black;
+  color:white;
 }
 h1{color:white}
 p{color:white}
+a{
+  text-decoration: none;
+  color:white;
+  font-size: 10px;
+ }
